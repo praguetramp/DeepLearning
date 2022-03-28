@@ -18,6 +18,8 @@ threshold = 1
 ITER_NUM = 2000
 
 # 确定模型中存在的误差，并确保生成的仿射矩阵和匹配的描述子的误差尽可能小
+
+
 def residual_lengths(x, y, s, t):
     # 仿射矩阵x 和 源图像关键点矩阵的线性模型，给出目标图像的  点估计
     e = np.dot(x, s)+y
