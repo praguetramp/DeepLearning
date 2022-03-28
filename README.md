@@ -1,4 +1,2 @@
-# opencv_learning_start
-practical machine learning and image processing
-# record some notes for intervoew
-机器学习->深度学习->opencv
+# 机器学习记录
+  2022-3-24从《Pthon 机器学习和图像处理实战》开始
